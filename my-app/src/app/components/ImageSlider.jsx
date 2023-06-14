@@ -21,8 +21,8 @@ function ImageSlider() {
             <h1 className='text-3xl text-white '>Deals of the day</h1>
             <p className='text-sm text-white'>Check out deals on top brands!</p>
         </div>
-        <div className='hover:bg-white w-36 border border-white flex items-center justify-start text-white hover:text-[#0E2954] hover:child:translate-x-20 '>
-            <button className='text-5xl transition duration-500'><MdOutlineDoubleArrow/></button>
+        <div className='hover:bg-white w-36 border border-white flex items-center justify-start text-white hover:text-[#0E2954] '>
+            <button className='text-5xl transition duration-500 hover:translate-x-20'><MdOutlineDoubleArrow/></button>
         </div>
     </div>
     </>
